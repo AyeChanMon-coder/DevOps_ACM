@@ -1,0 +1,14 @@
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code personal workspace files (optional)
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak

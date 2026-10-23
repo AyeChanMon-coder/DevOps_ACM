@@ -9,9 +9,9 @@
 ### 🌿 1. Version Control (Git)
 | No. | Topic / Section | Description | File Link |
 | :---: | :--- | :--- | :--- |
-| **1.1** | **Merge Strategies** | Fast-Forward, Non-Fast-Forward,Rebase နှင့် Squash & Merge တို့၏ သဘောတရားနှင့် ပုံများ | [View Guide](md/git/merge-strategies.md) |
-| **1.2** | **Git Branching Cheatsheet** | နေ့စဉ်သုံး Git Branch အမိန့်များနှင့် Remote Sync ပြုလုပ်ပုံများ | [View Cheatsheet](md/git/git-branching-cheatsheet.md) |
-| **1.3** | **Time Travel Cheatsheet** | Git Log, Reset (--soft, --mixed, --hard) နှင့် Revert အသုံးပြုပုံများ | [View Cheatsheet](md/git/time-travel-cheatsheet.md) |
+| **1.1** | **Merge Strategies** | Fast-Forward, Non-Fast-Forward,Rebase နှင့် Squash & Merge တို့၏ သဘောတရားနှင့် ပုံများ | [View Guide](/md/git/merge-stragegies.md) |
+| **1.2** | **Git Branching Cheatsheet** | နေ့စဉ်သုံး Git Branch အမိန့်များနှင့် Remote Sync ပြုလုပ်ပုံများ | [View Cheatsheet](/md/git/git-branching-cheatsheet.md) |
+| **1.3** | **Time Travel Cheatsheet** | Git Log, Reset (--soft, --mixed, --hard) နှင့် Revert အသုံးပြုပုံများ | [View Cheatsheet](/md/git/time-travel-cheatsheet.md) |
 
 ## 📂 Repository Structure
 
